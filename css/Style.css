@@ -267,7 +267,7 @@ form{
     height: 60px;
     width: 300px;
     overflow: hidden;
-    margin: 20px auto 5px auto;
+    margin: 5px;
   }
   
 .form input{
@@ -322,6 +322,8 @@ form{
   
   #message{
     outline: none;
+    height: 100px;
+    width: 300px;
   }
   
   #message:focus{
@@ -335,7 +337,8 @@ form{
     background-color: white;
     color: black;
     display: block;
-    margin: 20px auto;
+    margin: 10px 0px 0px 240px;
+    
   }
   
   .submit:hover{
